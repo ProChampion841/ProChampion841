@@ -10,7 +10,7 @@
   <a href="mailto:brandon@codingace.ai">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codingace.ai">
+  <a href="[https://codingace.ai](https://codingace.ai/portfolio)">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
