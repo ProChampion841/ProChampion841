@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Production+LLM+Agents+%26+Tool-Orchestrated+Workflows;RAG%2C+OCR+%26+Document+Intelligence;Full-Stack+Platforms+%26+Cloud+Automation;Computer+Vision%2C+MLOps+%26+Operational+Analytics"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=1900&amp;pause=500&amp;repeat=false&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Production+LLM+Agents+%26+Tool-Orchestrated+Workflows;RAG%2C+OCR+%26+Document+Intelligence;Full-Stack+Platforms+%26+Cloud+Automation;Agentic+AI+%7C+RAG+%7C+Computer+Vision+%7C+Cloud+Architecture"
     alt="Typing animation listing Brandon Rodriguez's specialties in LLM agents, RAG, document intelligence, full-stack platforms, cloud automation, computer vision, and MLOps"
   />
 </p>
@@ -158,27 +158,17 @@
 
 ## GitHub Activity
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ProChampion841&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA"
-    alt="Brandon Rodriguez GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProChampion841&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=67E8F9&amp;text_color=CBD5E1"
-    alt="Most-used programming languages across Brandon Rodriguez's public GitHub repositories"
-  />
-</p>
-
 ### 3D Contribution Map
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Automatically generated 3D GitHub contribution calendar for Brandon Rodriguez"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img
+      src="./profile-3d-contrib/profile-night-rainbow.svg"
+      alt="Automatically generated 3D GitHub contribution calendar for Brandon Rodriguez"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ### Contribution Stream
@@ -187,7 +177,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving through Brandon Rodriguez's GitHub contribution graph" src="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake.svg" width="100%" />
+    <img
+      src="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake.svg"
+      alt="Animated snake moving through Brandon Rodriguez's GitHub contribution graph"
+      width="100%"
+    />
   </picture>
 </p>
 

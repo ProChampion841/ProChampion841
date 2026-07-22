@@ -16,6 +16,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 WIDTH, HEIGHT = 1200, 360
 FRAME_COUNT = 48
 FRAME_DURATION_MS = 85
+FINAL_HOLD_MS = 2600
 OUT_DIR = Path(__file__).resolve().parents[1] / "assets"
 
 FONT_BLACK = "/usr/share/fonts/opentype/inter/InterDisplay-Black.otf"
@@ -282,12 +283,14 @@ def main() -> None:
     for frame in frames[1:]:
         paletted.append(frame.quantize(palette=palette_frame, dither=Image.Dither.FLOYDSTEINBERG))
 
+    # Play once, then remain on the final fully rendered frame. Omitting the
+    # GIF loop extension prevents the animation from restarting on GitHub.
+    durations = [FRAME_DURATION_MS] * (len(paletted) - 1) + [FINAL_HOLD_MS]
     paletted[0].save(
         gif_path,
         save_all=True,
         append_images=paletted[1:],
-        duration=FRAME_DURATION_MS,
-        loop=0,
+        duration=durations,
         optimize=True,
         disposal=2,
     )
