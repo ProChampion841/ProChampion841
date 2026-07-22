@@ -283,9 +283,9 @@ def main() -> None:
     for frame in frames[1:]:
         paletted.append(frame.quantize(palette=palette_frame, dither=Image.Dither.FLOYDSTEINBERG))
 
-    # Play once, then remain on the final fully rendered frame. Omitting the
-    # GIF loop extension prevents the animation from restarting on GitHub.
-    durations = [FRAME_DURATION_MS] * (len(paletted) - 1) + [FINAL_HOLD_MS]
+    # Loop the 3D/background animation continuously. The text animation in
+    # README.md is configured separately to run once and remain fully visible.
+    durations = [FRAME_DURATION_MS] * len(paletted)
     paletted[0].save(
         gif_path,
         save_all=True,
@@ -293,6 +293,7 @@ def main() -> None:
         duration=durations,
         optimize=True,
         disposal=2,
+        loop=0,
     )
 
     print(f"Wrote {gif_path} ({gif_path.stat().st_size / 1024 / 1024:.2f} MiB)")
