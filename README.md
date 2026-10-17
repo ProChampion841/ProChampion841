@@ -19,10 +19,6 @@
   computer vision, full-stack platforms, cloud architecture, workflow automation, and operational analytics.
 </p>
 
-<p align="center">
-  <code>San Antonio, Texas</code> · <code>Available for consulting, architecture, and high-impact product builds</code>
-</p>
-
 ---
 
 ## AI Systems I Build
