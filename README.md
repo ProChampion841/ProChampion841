@@ -9,7 +9,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=1900&amp;pause=500&amp;repeat=false&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Production+LLM+Agents+%26+Tool-Orchestrated+Workflows;RAG%2C+OCR+%26+Document+Intelligence;Full-Stack+Platforms+%26+Cloud+Automation;Agentic+AI+%7C+RAG+%7C+Computer+Vision+%7C+Cloud+Architecture"
-    alt="Typing animation listing Brandon Rodriguez's specialties in LLM agents, RAG, document intelligence, full-stack platforms, cloud automation, computer vision, and MLOps"
+    alt="Typing animation listing specialties in LLM agents, RAG, document intelligence, full-stack platforms, cloud automation, computer vision, and MLOps"
   />
 </p>
 
@@ -138,7 +138,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <img
       src="./profile-3d-contrib/profile-night-rainbow.svg"
-      alt="Automatically generated 3D GitHub contribution calendar for Brandon Rodriguez"
+      alt="Automatically generated 3D GitHub contribution calendar"
       width="100%"
     />
   </picture>
@@ -152,7 +152,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake.svg" />
     <img
       src="https://raw.githubusercontent.com/ProChampion841/ProChampion841/output/github-contribution-grid-snake.svg"
-      alt="Animated snake moving through Brandon Rodriguez's GitHub contribution graph"
+      alt="Animated snake moving through GitHub contribution graph"
       width="100%"
     />
   </picture>
