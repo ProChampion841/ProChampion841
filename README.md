@@ -14,21 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/brandon-rodriguez-champion/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Brandon Rodriguez on LinkedIn" />
-  </a>
-  <a href="mailto:brandon@codingace.ai">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Brandon Rodriguez" />
-  </a>
-  <a href="https://codingace.ai/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View Brandon Rodriguez's AI and software engineering portfolio" />
-  </a>
-  <a href="https://github.com/ProChampion841?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse Brandon Rodriguez's GitHub repositories" />
-  </a>
-</p>
-
-<p align="center">
   <strong>I design and ship production-grade AI products that create measurable business value.</strong><br />
   My work spans agentic AI, LLM application engineering, retrieval-augmented generation, OCR and document intelligence,
   computer vision, full-stack platforms, cloud architecture, workflow automation, and operational analytics.
