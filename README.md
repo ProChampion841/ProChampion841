@@ -4,18 +4,6 @@
   GitHub search, recruiters, and screen readers can understand the profile.
 -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/brandon-3d-banner.png" />
-    <img
-      src="./assets/brandon-3d-banner.gif"
-      alt="Animated 3D agent network for Brandon Rodriguez, an agentic AI systems engineer, full-stack architect, and cloud automation specialist"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<h1 align="center">Brandon Rodriguez</h1>
 <h3 align="center">AI Agentic Systems Engineer · Full-Stack Architect · Cloud &amp; Automation Specialist</h3>
 
 <p align="center">
