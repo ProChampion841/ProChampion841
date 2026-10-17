@@ -196,10 +196,3 @@
   cloud-native application, or operations automation program?
 </p>
 
-<p align="center">
-  <a href="mailto:brandon@codingace.ai"><strong>brandon@codingace.ai</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/brandon-rodriguez-champion/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://codingace.ai/portfolio"><strong>Portfolio</strong></a>
-</p>
